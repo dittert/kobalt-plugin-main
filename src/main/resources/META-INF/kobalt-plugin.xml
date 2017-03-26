@@ -1,0 +1,6 @@
+<kobalt-plugin>
+    <name>kobalt-line-count</name>
+    <plugin-actors>
+        <class-name>tfo.kobalt.plugin.linecount.LineCountPlugin</class-name>
+    </plugin-actors>
+</kobalt-plugin>

@@ -1,0 +1,6 @@
+.idea/
+.kobalt/
+kobalt/out/
+*.iml
+.DS_Store
+kobaltBuild/
